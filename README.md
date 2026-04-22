@@ -46,13 +46,14 @@ Battery → BMS → Buck Converter → ESP32 + Motor Driver → Motor
 
 ---
 
-## 💻 Code
+## 🛠 Tools & Software Used
 
-ESP32 is used for:
-
-* WiFi-based control
-* Motor direction control
-* Motor Driver control
+- CATIA – 3D design and assembly  
+- Autodesk Fusion 360 – CAD modeling / design support  
+- Arduino IDE – ESP32 programming  
+- NI Multisim – circuit simulation  
+- Tinkercad – basic circuit design and testing  
+- Wokwi – ESP32 simulation and debugging  
 
 (Code available in `/code/esp32/`)
 
